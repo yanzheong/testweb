@@ -1,0 +1,31 @@
+# Site settings
+title: Alex Peng | Site
+email: hello@pengalex.com
+description: add description here
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://pengalex.com" # the base hostname & protocol for your site FORMAT: "http://xxx.com"
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 3
+
+# Misc settings
+featured-image-source:
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://www.github.com/appb
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/alexpengpb
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-redirect-from

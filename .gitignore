@@ -1,0 +1,16 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+Gemfile.lock
+*.gem
+s3_website.yml
+assets/images
+
+
+# deprecated
+LICENSE.TXT
+CHANGELOG
+CONTRIBUTING.md
+.gitlab-ci.yml
+_posts/2019-01-01-resume.md
+03_resume.md
